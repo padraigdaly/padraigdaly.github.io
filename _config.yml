@@ -1,7 +1,7 @@
 ### your site title here
 
 title: Pádraig Daly
-description: EMAIL: pcdaly@uwaterloo.ca
+description: "EMAIL: pcdaly@uwaterloo.ca"
 
 baseurl: "" #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
