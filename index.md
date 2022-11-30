@@ -3,7 +3,7 @@ layout: about
 permalink: /
 profile:
   align: right
-  image: profile.png
+  image: IMG-20221029-WA0024_4.jpg
 published: true
 ---
 
